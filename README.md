@@ -6,3 +6,5 @@
   - Pandas
   - Keras.layers
   - tensorflow
+  - sklearn
+  - math

@@ -1,1 +1,9 @@
-# M.L._PROJECT
+# ML-Project
+## Dataset Used : MENSTRUAL DATASET 
+### Technique Used:  ANN(3 DENSE LAYERS AND 1 DROPOUT LAYER)
+### Libraries Used 
+  - Numpy
+  - Pandas
+  - MinMaxScaler
+  - Keras.layers
+  - tensorflow

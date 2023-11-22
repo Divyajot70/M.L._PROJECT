@@ -4,6 +4,5 @@
 ### Libraries Used 
   - Numpy
   - Pandas
-  - MinMaxScaler
   - Keras.layers
   - tensorflow
